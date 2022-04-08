@@ -1,4 +1,4 @@
-# MIssion to Mars
+# Mission to Mars
 Module 10
 
 ## Overview of the Analysis
